@@ -7,7 +7,7 @@ To use the following API:
 ```
 <dependency>
     <groupId>xyz.laur</groupId>
-    <artifactId>mw-apitest</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>miniwalls-api</artifactId>
+    <version>1.1.4</version>
 </dependency>
 ```
